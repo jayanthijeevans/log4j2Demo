@@ -1,0 +1,20 @@
+[INFO ] 2024-05-28 12:47:13.592 [main] lggr - opening chrome Browser
+[INFO ] 2024-05-28 12:47:40.609 [main] lggr - opening the site https://selenium-apps.doselect.in/flag_match/
+[INFO ] 2024-05-28 12:47:40.633 [main] lggr - creating an instance of action class
+[INFO ] 2024-05-28 12:47:40.677 [main] lggr - finding an element with id red
+[INFO ] 2024-05-28 12:47:40.712 [main] lggr - finding an element with id white
+[INFO ] 2024-05-28 12:47:40.728 [main] lggr - finding an element with id blue
+[INFO ] 2024-05-28 12:47:40.775 [main] lggr - finding the 3 target areas
+[INFO ] 2024-05-28 12:47:41.662 [main] lggr - Performing the drag and drop operation to create the flag
+[INFO ] 2024-05-28 12:47:41.855 [main] lggr - closing the browser
+[INFO ] 2024-05-28 12:47:41.855 [main] lggr - **********end**********
+[INFO ] 2024-05-28 15:57:28.365 [main] lggr - opening chrome Browser
+[INFO ] 2024-05-28 15:57:30.442 [main] lggr - opening the site https://selenium-apps.doselect.in/flag_match/
+[INFO ] 2024-05-28 15:57:30.492 [main] lggr - creating an instance of action class
+[INFO ] 2024-05-28 15:57:30.546 [main] lggr - finding an element with id red
+[INFO ] 2024-05-28 15:57:30.593 [main] lggr - finding an element with id white
+[INFO ] 2024-05-28 15:57:30.629 [main] lggr - finding an element with id blue
+[INFO ] 2024-05-28 15:57:30.748 [main] lggr - finding the 3 target areas
+[INFO ] 2024-05-28 15:57:31.689 [main] lggr - Performing the drag and drop operation to create the flag
+[INFO ] 2024-05-28 15:57:32.128 [main] lggr - closing the browser
+[INFO ] 2024-05-28 15:57:32.128 [main] lggr - **********end**********
